@@ -1,0 +1,16 @@
+Q1. Implement an integer Stack using array with elements (10,20,30,40,50,60,70)
+
+	Implement all the operations [push(), pop(), peek(), isEmpty(), isFull()]
+	In main method:
+              a) First try to remove an element at the top
+              b) Print the top element
+              c) Then add the above elements
+              d) Remove two elements at the top
+              e) Print the top element
+              f)  Display all elements in the Stack
+
+Q2. Implement a string Stack using linked list with elements (“D1”,“D2”,“D3”,“D4”,“D5”,“D6”,“D7”)
+
+       Do the questions Q1.1 and Q1.2 again for this Stack
+
+       Note: No need for isFull() method.

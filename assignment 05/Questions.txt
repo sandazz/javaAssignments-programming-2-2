@@ -1,0 +1,16 @@
+Q1. Implement a String Queue using array with elements (“e1”,“e2”,“e3”,“e4”,“e5”)
+
+Implement all the operations [enQueue(), deQueue(), peek(), isEmpty(), isFull()]
+In main method:
+              a) First try to remove an element at the front
+              b) Get the elements from user and add them in the Queue
+              c) Print the first element
+              d) Display all elements in the Queue
+              e) Remove one element and display again
+              f) Remove five elements from Queue using loop
+              g) Add two elements and display again.
+Q2. Implement an integer Queue using linked list with elements (10, 2, 300, 40, 5000)
+
+       Do the questions Q1.1 and Q1.2 again for this Queue
+
+       Note: No need for isFull() method.

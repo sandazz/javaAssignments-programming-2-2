@@ -1,0 +1,21 @@
+1. Implement an singly linked list to store the integers 5,1,3,8,2
+
+2. Insertion – Add the data 4 including the following test cases
+Consider about adding in the empty linked list 
+	At the beginning
+	At the particular position (after data 3)
+	At the end
+
+3. Deletion – Delete an element including the following test cases
+Consider about deleting in the empty linked list 
+	At the beginning (delete first element)
+	At the particular position (delete 8)
+	At the end (delete the last element)
+
+4. Display − Display the complete list
+
+5. Search − Search an element using the given key
+	Search 4 and print appropriate message
+	Search 9 and print appropriate message
+
+6. Try to do the above 5 task to doubly linked list
